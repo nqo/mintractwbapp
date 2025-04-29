@@ -1,0 +1,34 @@
+{
+  "name": "mintractwbapp",
+  "version": "1.0.0",
+  "description": "react app purpose tbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nqo/mintractwbapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqo/mintractwbapp/issues"
+  },
+  "homepage": "https://github.com/nqo/mintractwbapp#readme",
+  "dependencies": {
+    "@tanstack/react-router": "^1.117.1",
+    "@tanstack/react-start": "^1.118.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vinxi": "^0.5.6"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}
